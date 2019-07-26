@@ -1,48 +1,15 @@
-bed
-person
-pictureframe
-shirt
-lamp
-nightstand
-clock
-heater
-windowblind
-pillow
-robot
-cabinetry
-door
-doorhandle
-shelf
-pottedplant
-chair
-diningtable
-backpack
-whiteboard
-cup
-tvmonitor
-pen
-pencil
-wardrobe
-apple
-orange
-countertop
-tap
-banana
-bicyclehelmet
-book
-bookcase
-refrigerator
-wastecontainer
-tincan
-handbag
-sofa
-glasses
-vase
-coffeetable
-bowl
-remote
-candle
-bottle
-sink
-envelope
-doll
+Sinalco Orange
+Sinalco Cola
+Sinalco Cola Mix
+Sinalco Zitrone
+Sinalco Orange Zero
+Sinalco Cola Zero
+Sinalco Cola Light
+Sinalco Zitres
+Sinalco Apfelschorle
+Rheinfels Quelle Klassik
+Rheinfels Quelle Medium
+Rheinfels Quelle Lemon
+Rheinfels Quelle Bluetenhauch
+Rheinfels Quelle Rote Fruechte
+Rheinfels Quelle Frucht & Tee Apfel-Kirsche-Rooibostee

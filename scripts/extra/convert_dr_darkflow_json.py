@@ -29,7 +29,7 @@ for tmp_file in json_list:
   with open(tmp_file.replace(".json", ".txt"), "a") as new_f:
     data = json.load(open(tmp_file))
     for obj in data:
-      obj_name = obj['label']
+      obj_name = obj['label'].replace(' ', '-')
       conf = obj['confidence']
       left = obj['topleft']['x']
       top = obj['topleft']['y']

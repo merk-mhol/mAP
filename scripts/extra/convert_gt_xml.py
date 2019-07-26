@@ -29,7 +29,7 @@ for tmp_file in xml_list:
   with open(tmp_file.replace(".xml", ".txt"), "a") as new_f:
     root = ET.parse(tmp_file).getroot()
     for obj in root.findall('object'):
-      obj_name = obj.find('name').text
+      obj_name = obj.find('name').text.replace(' ', '-')
       bndbox = obj.find('bndbox')
       left = bndbox.find('xmin').text
       top = bndbox.find('ymin').text
